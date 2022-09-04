@@ -1,0 +1,82 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.header {
+  background-color: #fce029c2;
+  padding: 20px 24px;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 32px;
+  padding: 12px;
+}
+
+.header p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.main {
+  width: 600px;
+  margin: auto;
+  margin-top: 40px;
+}
+.input {
+  margin-bottom: 40px;
+}
+.input label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.input textarea {
+  font-size: 20px;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+}
+
+.button {
+  font-size: 20px;
+  padding: 12px 24px;
+  background-color: #0a75bc;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.output_field {
+  border: 1px solid black;
+  font-size: 20px;
+  padding: 20px;
+  width: 500px;
+  height: 100px;
+}
+
+.output_text {
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+
+.output {
+  margin-top: 40px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  background-color: #fce029c2;
+  height: 100px;
+  width: 100%;
+}
+
+.footer p {
+  font-size: 20px;
+  text-align: center;
+  padding: 12px;
+}
